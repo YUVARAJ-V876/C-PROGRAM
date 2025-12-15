@@ -1,3 +1,0 @@
-please enter your favourite number
-876
-you entered number: 876
